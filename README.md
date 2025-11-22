@@ -9,13 +9,16 @@ I tried as much as I could to make sure that this program successfully encrypts 
 
 ## Security Features
 
-**THIS IS DETECTED AS FALSE POSITIVE MALWARE. BE SURE TO ADD AN ANTIVIRUS EXCEPTION TO THE FOLDER YOU PUT THIS IN**
+- ⚠️ **False-positive warning:**  
+  Some antivirus programs may flag this tool as malware.  
+  This is **only** because it uses encryption and anti-debugging techniques.  
+  If this happens, simply add an antivirus exception for the folder you place it in.
 
 The following security methods are used by this program:
 
 - **Strong encryption:** Fernet (AES-256)  
 - **Password protection:** Password is never stored in plaintext; only the hash is saved.  
-- **Anti-debugging:** Detects and blocks attempts to tamper with or reverse engineer the program.  
+- **Anti-debugging:** Detects and blocks attempts to tamper with or reverse engineer the program. 
 - **Safe resets:** If you forget your password, the program can safely reset progress without leaving anything behind.  
 
 ---
