@@ -23,3 +23,4 @@ The following security methods are used by this program:
 - You can type *"deletepassword"* into the password field to reset your progress if you forget it.  
   - **Warning:** Files that were encrypted will not be recoverable and will decrypt as garbage if you change the password.  
     **THIS IS DETECTED AS FALSE POSITIVE MALWARE. BE SURE TO ADD AN ANTIVIRUS EXCEPTION TO THE FOLDER YOU PUT THIS IN**
+- This is X64 only. I'll make ARM64 in a minuteeeeeeeeeeeeeeeeeee
