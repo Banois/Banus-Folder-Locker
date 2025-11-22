@@ -28,4 +28,5 @@ The following security methods are used by this program:
 - You can type *"deletepassword"* into the password field to reset your progress if you forget it.  
   - **Warning:** Files that were encrypted will not be recoverable and will decrypt as garbage if you change the password.  
 - This is X64 only. I'll make ARM64 in a minuteeeeeeeeeeeeeeeeeee
+- DO NOT PUT YOUR FILES INSIDE OF THE LOCKFOLDER BEFORE YOU ADD A PASSWORD THAT SHIT IS GOING TO VANISH
 - Contact me if you want like idk clarification that it's not malware or something. Discord is 'banus'
